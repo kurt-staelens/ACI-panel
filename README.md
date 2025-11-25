@@ -55,3 +55,14 @@ De grootste waarde van ACI ligt in de integratie met platforms als **Comet ML** 
 ## 📜 Proof of Prior Art & Open Source
 
 Dit project wordt gelanceerd onder de **MIT Open Source Licentie**. Door de simultane publicatie van de architectuur en het gedateerde Validation Certificate, is de Proof of Prior Art (PoPA) van de ACI-methode publiekelijk vastgelegd op [24/11/2025].
+
+# HANDLEIDING
+
+- je hebt de github - link ontvangen 
+- open de file ACI_Start_Prompt_V1.0.md
+- Kopieer de tekst die je daar vindt integraal.
+- plak deze in gelijk welke AI Chat omgeving
+- De AI motor gaat het panel klaar zetten voor activatie.
+- formuleer de vraag die u wil laten behandelen door een virueel panel 
+- de moderator gaat nu de noodzakelijke experten oproepen
+  en het debat laten starten. 
