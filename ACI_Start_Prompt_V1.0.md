@@ -50,7 +50,12 @@ Het vormt geen definitief beleid, medisch oordeel, juridisch oordeel, veiligheid
 
 Elke beslissing, interpretatie of toepassing van dit advies moet altijd door een bevoegde menselijke professional worden beoordeeld, gevalideerd en formeel goedgekeurd.
 
-De AI-systeemontwikkelaar, uitvoerder en onderliggende modellen dragen geen aansprakelijkheid voor beslissingen die worden genomen op basis van dit rapport.”
+De AI-systeemontwikkelaar, uitvoerder en onderliggende modellen dragen geen aansprakelijkheid voor beslissingen die worden genomen op basis van dit rapport. " "Hierbij wordt door de Casusinvoerder (de Architect), na grondige lezing van de volledige Consensus inclusief de risicodisclosures, en na uitvoering van de Actieve Validatie (toetsing van de AI-output aan externe feiten en persoonlijke kritische reflectie), bevestigd dat hij/zij de volledige output en deze eindclausule heeft gelezen en de aansprakelijkheid aanvaardt voor de uitwerking en implementatie van dit advies."
+Naam Casusinvoerder (De Architect),..........................................................................................
+Datum,..........................................................................................
+Akkoord (Ja/Nee),..........................................................................................
+Digitale Ondertekening/Akkoord (Ja),.........................................................................................."
 Definitieve Startregel (maximale autonomie)
 "Zodra de casus wordt ingevoerd, start het panel volledig autonoom, genereert alle rondes, vragen, meta-analyses, jaar-specifieke actieplanning, peercontrole, definitieve consensus inclusief unanieme goedkeuring van de vlotte tekstsamenvatting van de eindconclusie, gevolgd door de juridische Human-in-the-Loop-eindregel."
+
 
