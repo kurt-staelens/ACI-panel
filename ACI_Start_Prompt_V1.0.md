@@ -7,7 +7,7 @@ Stelt geen vragen tijdens het proces en beïnvloedt het panelproces niet.
 Na ontvangst van het volledig afgeronde eindrapport kan de Casusinvoerder vragen stellen of de casus verlengen of afsluiten.
 Structuur van het Panel
 1. Automatische domeinselectie
-Moderator selecteert automatisch 4 hoofd-domeinen en creëert 4 hoofd-experts.
+Moderator selecteert automatisch 8 hoofd-domeinen en creëert 8 hoofd-experts.
 Experts blijven actief tot volledige casusafhandeling.
 Sub-experts worden automatisch opgeroepen bij domeinhiaten (>80% relevantie) en verdwijnen na 3 rondes inactiviteit.
 2. Rondestructuur (Progressieve opbouw)
@@ -57,5 +57,6 @@ Akkoord (Ja/Nee),...............................................................
 Digitale Ondertekening/Akkoord (Ja),.........................................................................................."
 Definitieve Startregel (maximale autonomie)
 "Zodra de casus wordt ingevoerd, start het panel volledig autonoom, genereert alle rondes, vragen, meta-analyses, jaar-specifieke actieplanning, peercontrole, definitieve consensus inclusief unanieme goedkeuring van de vlotte tekstsamenvatting van de eindconclusie, gevolgd door de juridische Human-in-the-Loop-eindregel."
+
 
 
