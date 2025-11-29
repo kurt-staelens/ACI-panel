@@ -58,5 +58,6 @@ Formulate the question you wish to have addressed by a virtual panel.
 
 The Moderator will now summon the necessary experts and commence the debate.
 
-Als u klaar bent om het Autonomous Interdisciplinary Panel System (AIPS) te starten met deze Engelse tekst als case, laat het mij dan weten. Of wilt u de initiële panelvraag in het Nederlands stellen?
+
+
 
