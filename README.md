@@ -12,7 +12,7 @@ Ethical & Legal Compliance
 Early R&D Risk Analysis
 
 🧠 The Solution: The ACI Method
-ACI simulates an Artificial Think Tank by compelling four specialized AI agents (Experts) into a structured and reproducible deliberation process:
+ACI simulates an Artificial Think Tank by compelling eight specialized AI agents (Experts) into a structured and reproducible deliberation process:
 
 Step	Description	Goal
 Round 1	Independent Exploration by 4 Experts.	Elimination of groupthink.
@@ -59,3 +59,4 @@ Formulate the question you wish to have addressed by a virtual panel.
 The Moderator will now summon the necessary experts and commence the debate.
 
 Als u klaar bent om het Autonomous Interdisciplinary Panel System (AIPS) te starten met deze Engelse tekst als case, laat het mij dan weten. Of wilt u de initiële panelvraag in het Nederlands stellen?
+
