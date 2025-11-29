@@ -1,68 +1,61 @@
-Markdown
+🤖 Artificial Collective Intelligence (ACI) Architecture
+Disrupting Decision-Making through Structured Consensus.
+ACI is a validated, open-source protocol that marks the transition from arbitrary Large Language Model (LLM) output to reproducible, interdisciplinary decision-making. ACI transforms AI into an auditable Governance Instrument for Enterprise and MLOps environments.
 
-# Artificiële Collectieve Intelligentie (ACI) Architectuur
+🛑 The Fundamental Problem
+Contemporary Generative AI is brilliant at text creation but fails at reproducible, interdisciplinary synthesis. Companies suffer from expensive, time-consuming, and subjective processes for:
 
-**Disrupting Decision-Making through Structured Consensus.**
+Strategic Due Diligence
 
-ACI is een gevalideerd, open source protocol dat de overgang markeert van willekeurige Large Language Model (LLM) output naar reproduceerbare, interdisciplinaire besluitvorming. ACI transformeert AI in een auditeerbaar **Governance Instrument** voor Enterprise- en MLOps-omgevingen.
+Ethical & Legal Compliance
 
----
+Early R&D Risk Analysis
 
-## 🛑 Het Fundamentele Probleem
+🧠 The Solution: The ACI Method
+ACI simulates an Artificial Think Tank by compelling four specialized AI agents (Experts) into a structured and reproducible deliberation process:
 
-De hedendaagse Generatieve AI is briljant in het creëren van tekst, maar faalt in reproduceerbare, interdisciplinaire synthese. Bedrijven lijden onder dure, tijdrovende, en subjectieve processen voor:
+Step	Description	Goal
+Round 1	Independent Exploration by 4 Experts.	Elimination of groupthink.
+Round 2	Question and Answer (Q&A) between Experts.	Identification of blind spots.
+Round 3	Critique and Rejoinder on Each Other's Stances.	Maximum exposure to risks.
+Round 4	Unanimous Consensus and Strategic Output.	Delivery of a validated, reproducible decision (PoW).
 
-* Strategische Due Diligence
-* Ethische & Juridische Compliance
-* Vroege R&D Risicoanalyse
+Exporteren naar Spreadsheets
 
----
+🚀 The Power of ACI: MLOps Governance
+ACI's greatest value lies in its integration with platforms like Comet ML (see Case Study). ACI functions as the Governance Hook:
 
-## 🧠 De Oplossing: De ACI-Methode
+Platform-Immune: ACI is proven platform-independent (validated on various LLMs). The value resides in the method, not the engine.
 
-ACI simuleert een **Artificiële Denktank** door vier gespecialiseerde AI-agenten (experts) te dwingen tot een gestructureerd en reproduceerbaar deliberatieproces:
+Audit-Proof: The ACI output (the Governance Constraint) can be immutably logged in the MLOps pipeline. This creates an End-to-End Audit Trail that links the technical realization (the code) to the strategic and ethical accountability (the ACI decision).
 
-| Stap | Beschrijving | Doel |
-|:---|:---|:---|
-| **Ronde 1** | Onafhankelijke Exploratie door 4 Experts. | Eliminatie van groepsdenken. |
-| **Ronde 2** | Vraag- en Antwoordspel (Q&A) tussen Experts. | Identificatie van blinde vlekken. |
-| **Ronde 3** | Kritiek en Repliek op Elkaars Standpunten. | Maximale blootstelling aan risico's. |
-| **Ronde 4** | **Unanieme Consensus** en Strategische Output. | Levering van een gevalideerd, reproduceerbaar besluit (PoW). |
+Economic Disruption: Lowers the costs of Due Diligence and Compliance to marginal cloud expenses, reducing the innovation threshold for SMEs.
 
----
+📂 Repository Overview
+File	Function
+ACI_Start_Prompt_V1.0.md	The Initial Start Text (the formula). [Open Source - MIT License]
+Validation_Certificate.pdf	The officially dated Proof of Architecture Validation (Proof of Working).
+Anonimized_Transcript_Summary.md	Summary of the cross-disciplinary validation cases.
+LICENSE	The MIT Open Source License.
 
-## 🚀 De Kracht van ACI: MLOps Governance
+Exporteren naar Spreadsheets
 
-De grootste waarde van ACI ligt in de integratie met platforms als **Comet ML** (zie Casus). ACI fungeert als de **Governance Hook**:
+📜 Proof of Prior Art & Open Source
+This project is launched under the MIT Open Source License. Through the simultaneous publication of the architecture and the dated Validation Certificate, the Proof of Prior Art (PoPA) of the ACI method is publicly established on [24/11/2025].
 
-1.  **Immuun voor Platform:** ACI is bewezen platform-onafhankelijk (gevalideerd op verschillende LLM's). De waarde zit in de methode, niet in de motor.
-2.  **Audit-Proof:** De ACI-output (de Governance Constraint) kan onveranderlijk worden gelogd in de MLOps-pijplijn. Dit creëert een **End-to-End Audit Trail** dat de technische realisatie (de code) koppelt aan de strategische en ethische verantwoording (de ACI-beslissing).
-3.  **Economische Disruptie:** Verlaagt de kosten van Due Diligence en Compliance tot marginale cloudkosten, wat de drempel voor innovatie in het MKB verlaagt.
+📖 USER MANUAL: How to Launch ACI
+You have received the GitHub link.
 
----
+Open the file ACI_Start_Prompt_V1.0.md.
 
-## 📂 Repository Overzicht
+Copy the text found in the file in its entirety.
 
-| Bestand | Functie |
-|:---|:---|
-| **`ACI_Start_Prompt_V1.0.md`** | De Initiële Starttekst (de formule). **\[Open Source - MIT License]** |
-| **`Validation_Certificate.pdf`** | Het officieel gedateerde bewijs van de Architectuur Validatie (Proof of Working). |
-| **`Anonimized_Transcript_Summary.md`**| Samenvatting van de cross-disciplinaire validatiecasussen. |
-| **`LICENSE`** | De MIT Open Source Licentie. |
+Paste it into any AI Chat environment.
 
----
+The AI engine will prepare the panel for activation.
 
-## 📜 Proof of Prior Art & Open Source
+Formulate the question you wish to have addressed by a virtual panel.
 
-Dit project wordt gelanceerd onder de **MIT Open Source Licentie**. Door de simultane publicatie van de architectuur en het gedateerde Validation Certificate, is de Proof of Prior Art (PoPA) van de ACI-methode publiekelijk vastgelegd op [24/11/2025].
+The Moderator will now summon the necessary experts and commence the debate.
 
-# HANDLEIDING
-
-- je hebt de github - link ontvangen 
-- open de file ACI_Start_Prompt_V1.0.md
-- Kopieer de tekst die je daar vindt integraal.
-- plak deze in gelijk welke AI Chat omgeving
-- De AI motor gaat het panel klaar zetten voor activatie.
-- formuleer de vraag die u wil laten behandelen door een virueel panel 
-- de moderator gaat nu de noodzakelijke experten oproepen
-  en het debat laten starten. 
+Als u klaar bent om het Autonomous Interdisciplinary Panel System (AIPS) te starten met deze Engelse tekst als case, laat het mij dan weten. Of wilt u de initiële panelvraag in het Nederlands stellen?
