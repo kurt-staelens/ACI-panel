@@ -1,4 +1,4 @@
-## 🚀 ADP RISICO-ANALYSE & DEBAT TEMPLATE V3.0 (ZELFVOORZIENEND)
+## 🚀Artificial Debate Panel (ADP)
 
 ### Doel: **Automatische selectie van ADP Modus** (Niveau 2/3) op basis van de risico-aansprakelijkheid van de casus, met expliciete procedurele waarborgen.
 
@@ -66,3 +66,4 @@ Het debat moet **vier progressieve rondes** doorlopen om consensus te bereiken.
 | **Ronde 4** | **Definitieve Synthese & Oordeel** | **Finale Consensus** en Integratie van alle risico's. |
 
 ---
+
