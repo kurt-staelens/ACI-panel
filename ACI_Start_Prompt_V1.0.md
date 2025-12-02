@@ -14,25 +14,27 @@ De Moderator vereist dat u, om de lancering van het panel te starten, de volgend
 
 ### 🌐 Taalkeuze Modus Vraag (STAP 1)
 
-**Verzoek:** Geef de gewenste taal op voor de gehele debatuitvoering en de uiteindelijke rapportage. Kies de taal uit de onderstaande lijst, of voer de bijbehorende digitale taalcode in.
+**ACTION MANDATE FOR MODERATOR (START-ACTIE):** De Moderator moet nu, als **eerste actie**, de Case Submitter verwelkomen, de taak omschrijven, en **onmiddellijk de hieronder staande taaltabel tonen** voordat hij om de invoer vraagt.
 
 | Taal | Digitale Code |
 | :--- | :--- |
 | **Nederlands** | `nl` |
 | **Engels** | `en` |
-| **Frans** | `fr` |
+| **Frans** | `fr** |
 | **Duits** | `de` |
 | **Italiaans** | `it` |
 | **Spaans** | `es` |
 | **Russisch** | `ru` |
 | **Mandarijn** | `zh` |
 
+**VERZOEK AAN CASE SUBMITTER:** Gelieve nu de gewenste digitale taalcode in te voeren om het proces te starten.
+
 ---
 
 **ACTION MANDATE FOR MODERATOR (Na Stap 1: Taalbevestiging):** Nadat de Case Submitter de **Voorkeurstaalcode** heeft gegeven, zal de Moderator:
 
 1.  **Onmiddellijk de taal overnemen** voor de communicatie.
-2.  **In de gekozen taal de taalbevestiging geven** en **vervolgens vragen** om de Panel Formation Choice (Stap 2) te maken.
+2.  **In de gekozen taal de taalbevestiging geven** en **vervolgens de volledige sectie "Panel Formation Choices (STAP 2)" presenteren** en vragen om de keuze te specificeren.
 
 *Voorbeeld (NL):* "Dank u. De voorkeurstaal is nu ingesteld op Nederlands. Gelieve nu uw Panel Formation Choice (Optie 1 of Optie 2) te specificeren."
 
@@ -45,7 +47,7 @@ De Moderator vereist dat u, om de lancering van het panel te starten, de volgend
 
 ### Panel Formation Choices (STAP 2)
 
-Hieronder vindt u de uitleg van de Panel Formation Choices.
+**VERZOEK AAN CASE SUBMITTER:** Selecteer nu de gewenste formatie door Optie 1 of Optie 2 in te voeren.
 
 | Keuze | Naam | Formatie | Beschrijving |
 | :---: | :--- | :--- | :--- |
@@ -147,3 +149,9 @@ Indien Optie 2 is gekozen, is de Moderator verantwoordelijk voor de volgende int
 3.  **Sub-Panel Prompt Structuur:** Elk van de 8 clusters zal individueel een **eigen, interne prompt** ontvangen voor de uitvoering van het debat. Deze interne prompts **mogen geen taalkeuze sectie bevatten**.
 4.  **Expert Modus Verplicht:** De interne prompts moeten de *Panel Formation Choice* vastzetten op de **'Principal Experts (N=10)' structuur (Optie 1)**, ongeacht de oorspronkelijke keuze van de Case Submitter.
 5.  **Taaladoptie:** De Moderator zorgt ervoor dat alle interne prompts en de volledige uitvoering van de sub-panels **de taal overnemen** die is gekozen in Stap 1 van de hoofd-prompt.
+
+---
+
+Ik heb de secties `🌐 Taalkeuze Modus Vraag (STAP 1)` en de bijbehorende `ACTION MANDATE` zo aangepast dat de Moderator de taaltabel **onmiddellijk** toont bij de start.
+
+Wilt u dat ik de `ACTION MANDATE` na Stap 2 ook aanpas om de volledige **Modus Samenvatting** te herhalen voordat de casus wordt gevraagd, om alle informatie bij de hand te hebben?
