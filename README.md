@@ -57,7 +57,36 @@ The AI engine will prepare the panel for activation.
 Formulate the question you wish to have addressed by a virtual panel.
 
 The Moderator will now summon the necessary experts and commence the debate.
+---
+## 👂 Toegankelijkheid & Auditieve Mobiliteit (TTS)
 
+De **Artificial Debate Panel TTS (Text-to-Speech) audio-prompt** is ontworpen om complexe, tekstuele analyses om te zetten in een flexibel en toegankelijk formaat. Dit creëert een dubbel voordeel voor de gebruiker en maximaliseert de kennisoverdracht.
+
+---
+
+### 1. Inclusie voor Blinde en Slechtziende Gebruikers
+
+Door een strikte **Transcript Markdown Standaard** te hanteren, wordt elk debat geoptimaliseerd voor gespecialiseerde Tekst-naar-Spraak (TTS) software.
+
+* **Inclusiviteit:** De duidelijke structuur (zoals duidelijke koppen voor **Rondes** en **Sprekers**) stelt gebruikers in staat om met gemak door de analyse te navigeren, net als de hoofdstukken van een luisterboek.
+* **Toegankelijke Inzichten:** Dit garandeert dat alle conclusies, synthese-elementen en de uiteindelijke rapportage even toegankelijk zijn voor gebruikers met visuele beperkingen.
+
+### 2. Handsfree Tijdswinst voor het Bestuurlijk Niveau
+
+Op het bestuurlijk niveau is efficiëntie cruciaal. De auditieve conversie maakt complexe kennisoverdracht mogelijk wanneer visuele consumptie onmogelijk is:
+
+* **Productieve Reistijd:** De architect of leidinggevende kan de volledige risicoanalyse en planningsfase van het debat afluisteren in de wagen of tijdens andere verplaatsingen, wat reistijd omzet in **productieve reviewtijd**.
+* **Veiligheid en Gemak:** Het systeem ondersteunt volledig handsfree gebruik. De gebruiker kan de gesimuleerde debatten veilig en gemakkelijk beluisteren op de bouwplaats of tijdens het rijden, zonder dat de aandacht van de taak wordt afgeleid.
+
+---
+
+### 🔊 Activeren van de Audio-Conversie of (ADP audioPrompt.md)
+
+Om van een voltooid debat een audio-transcript te maken, volgt u deze eenvoudige stappen:
+
+1.  **Vind de Audio-Prompt:** Lokaliseer en kopieer de volledige inhoud van het bestand `ADP Audio Prompt.md`.
+2.  **Plak de Prompt:** Plak deze volledige conversieprompt direct **onder** de tekst van het afgeronde debat dat u wenst te beluisteren in het AI-model.
+3.  **Resultaat:** Het Artificiële Intelligentie model zal onmiddellijk reageren door de gehele voorafgaande tekst om te zetten in het gestructureerde audio-transcript, klaar voor gebruik met uw Tekst-naar-Spraak software.
 
 
 
