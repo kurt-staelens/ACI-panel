@@ -13,7 +13,7 @@ Ethical & Legal Compliance
 Early R&D Risk Analysis
 
 🧠 The Solution: The ADP Method
----
+--
 ADP simulates an Artificial Think Tank by compelling eight specialized AI agents (Experts) into a structured and reproducible deliberation process:
 
 Step	Description	Goal
@@ -104,6 +104,7 @@ This consensus guideline becomes the **direct and binding instruction** for the 
 
 ### 4. Final Design
 Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
+
 
 
 
