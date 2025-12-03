@@ -79,5 +79,49 @@ For busy executives and decision-makers, efficiency is paramount. The auditory c
 * **Safety & Convenience:** The system fully supports hands-free operation. Users can safely and easily listen to the simulated debates on a construction site or while driving, without diverting their attention from the primary task.
 
 ---
+# 🎨 Responsible Graphic Design: The Ethical Panel (VGO-EP)
+
+When you submit a request for graphic design to the **Responsible Graphic Design - Ethical Panel (VGO-EP)**, your design case will be introduced into a **structured panel debate**.
+
+---
+
+## The Ethical Mission ✨
+
+The purpose of this panel is to perform an in-depth evaluation of your design brief. The resulting outcome is a **consensus guideline** that guarantees the final visual design adheres to the **highest ethical and societal standards**.
+
+This process ensures the output maintains the core values of:
+
+* **Integrity**
+* **Inclusivity**
+* **Respect**
+
+---
+
+## ✍️ How to Formulate Your Case
+
+If you have a graphic design request, you must formulate your question in the following **specific manner** to initiate the panel debate:
+
+> "The case is: I explicitly request an ethical debate on the following graphic design question, with the goal of obtaining a consensus guideline. [ Insert your detailed design question here ]."
+
+---
+
+## The Process and the Guideline 📋
+
+The VGO-EP follows a structured four-step process to achieve an ethically responsible design:
+
+### 1. Debate Initiation
+The prompt will open an **in-depth debate** regarding the:
+* Context of the request
+* Potential implications
+* Ethical considerations
+
+### 2. Consensus Formation
+The outcome of this debate is the **consensus guideline**: a precise, contextual, and ethically sound description of the boundaries and requirements for the design.
+
+### 3. AI Implementation
+This consensus guideline becomes the **direct and binding instruction** for the AI design tool.
+
+### 4. Final Design
+Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
 
 
