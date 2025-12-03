@@ -58,35 +58,32 @@ Formulate the question you wish to have addressed by a virtual panel.
 
 The Moderator will now summon the necessary experts and commence the debate.
 ---
-## 👂 Toegankelijkheid & Auditieve Mobiliteit (TTS)
+# 🔊 Accessibility & Auditory Mobility (Text-to-Speech / TTS)
 
-De **Artificial Debate Panel TTS (Text-to-Speech) audio-prompt** is ontworpen om complexe, tekstuele analyses om te zetten in een flexibel en toegankelijk formaat. Dit creëert een dubbel voordeel voor de gebruiker en maximaliseert de kennisoverdracht.
-
----
-
-### 1. Inclusie voor Blinde en Slechtziende Gebruikers
-
-Door een strikte **Transcript Markdown Standaard** te hanteren, wordt elk debat geoptimaliseerd voor gespecialiseerde Tekst-naar-Spraak (TTS) software.
-
-* **Inclusiviteit:** De duidelijke structuur (zoals duidelijke koppen voor **Rondes** en **Sprekers**) stelt gebruikers in staat om met gemak door de analyse te navigeren, net als de hoofdstukken van een luisterboek.
-* **Toegankelijke Inzichten:** Dit garandeert dat alle conclusies, synthese-elementen en de uiteindelijke rapportage even toegankelijk zijn voor gebruikers met visuele beperkingen.
-
-### 2. Handsfree Tijdswinst voor het Bestuurlijk Niveau
-
-Op het bestuurlijk niveau is efficiëntie cruciaal. De auditieve conversie maakt complexe kennisoverdracht mogelijk wanneer visuele consumptie onmogelijk is:
-
-* **Productieve Reistijd:** De architect of leidinggevende kan de volledige risicoanalyse en planningsfase van het debat afluisteren in de wagen of tijdens andere verplaatsingen, wat reistijd omzet in **productieve reviewtijd**.
-* **Veiligheid en Gemak:** Het systeem ondersteunt volledig handsfree gebruik. De gebruiker kan de gesimuleerde debatten veilig en gemakkelijk beluisteren op de bouwplaats of tijdens het rijden, zonder dat de aandacht van de taak wordt afgeleid.
+The **Artificial Debate Panel (ADP) TTS audio-prompt** is engineered to transform complex, textual analyses into a flexible and highly accessible format. This strategy creates a dual benefit for users, maximizing knowledge transfer and efficiency.
 
 ---
 
-### 🔊 Activeren van de Audio-Conversie of (ADP audioPrompt.md)
+## 1. Inclusion for Blind and Visually Impaired Users
 
-Om van een voltooid debat een audio-transcript te maken, volgt u deze eenvoudige stappen:
+By mandating a strict **Transcript Markdown Standard**, every debate analysis is pre-optimized for specialized Text-to-Speech (TTS) software.
 
-1.  **Vind de Audio-Prompt:** Lokaliseer en kopieer de volledige inhoud van het bestand `ADP Audio Prompt.md`.
-2.  **Plak de Prompt:** Plak deze volledige conversieprompt direct **onder** de tekst van het afgeronde debat dat u wenst te beluisteren in het AI-model.
-3.  **Resultaat:** Het Artificiële Intelligentie model zal onmiddellijk reageren door de gehele voorafgaande tekst om te zetten in het gestructureerde audio-transcript, klaar voor gebruik met uw Tekst-naar-Spraak software.
+* **Inclusivity:** The clear hierarchical structure (using headings for **Rounds** and **Speakers**) allows users to navigate the analysis with the same ease as chapters in an audiobook.
+* **Accessible Insights:** This standardization ensures that all conclusions, synthesis elements, and final reports are equally accessible to users with visual impairments.
 
+## 2. Hands-free Efficiency for the Executive Level
 
+For busy executives and decision-makers, efficiency is paramount. The auditory conversion facilitates the consumption of complex knowledge in situations where visual review is impossible:
 
+* **Productive Travel Time:** Architects or leaders can listen to the complete risk analysis and planning phases of a debate while commuting or traveling. This converts downtime into **productive review time**.
+* **Safety & Convenience:** The system fully supports hands-free operation. Users can safely and easily listen to the simulated debates on a construction site or while driving, without diverting their attention from the primary task.
+
+---
+
+## 🚀 Activating the Audio Conversion (Using `ADP audioPrompt.md`)
+
+To instantly generate a structured audio transcript from a completed debate, follow these simple steps:
+
+1.  **Locate the Prompt:** Find and copy the entire content of the file named **`ADP Audio Prompt.md`**.
+2.  **Paste the Prompt:** Paste this complete conversion prompt directly **below** the text of the finished debate (the source text) within the AI model's input field.
+3.  **Result:** The Artificial Intelligence model will immediately process the preceding text and convert it into the structured audio transcript, ready for immediate use with your preferred Text-to-Speech software.
