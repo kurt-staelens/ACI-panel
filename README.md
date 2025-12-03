@@ -58,27 +58,6 @@ Formulate the question you wish to have addressed by a virtual panel.
 
 The Moderator will now summon the necessary experts and commence the debate.
 ---
-# 🔊 Accessibility & Auditory Mobility (Text-to-Speech / TTS)
-
-The **Artificial Debate Panel (ADP) TTS audio-prompt** is engineered to transform complex, textual analyses into a flexible and highly accessible format. This strategy creates a dual benefit for users, maximizing knowledge transfer and efficiency.
-
----
-
-## 1. Inclusion for Blind and Visually Impaired Users
-
-By mandating a strict **Transcript Markdown Standard**, every debate analysis is pre-optimized for specialized Text-to-Speech (TTS) software.
-
-* **Inclusivity:** The clear hierarchical structure (using headings for **Rounds** and **Speakers**) allows users to navigate the analysis with the same ease as chapters in an audiobook.
-* **Accessible Insights:** This standardization ensures that all conclusions, synthesis elements, and final reports are equally accessible to users with visual impairments.
-
-## 2. Hands-free Efficiency for the Executive Level
-
-For busy executives and decision-makers, efficiency is paramount. The auditory conversion facilitates the consumption of complex knowledge in situations where visual review is impossible:
-
-* **Productive Travel Time:** Architects or leaders can listen to the complete risk analysis and planning phases of a debate while commuting or traveling. This converts downtime into **productive review time**.
-* **Safety & Convenience:** The system fully supports hands-free operation. Users can safely and easily listen to the simulated debates on a construction site or while driving, without diverting their attention from the primary task.
-
----
 # 🎨 Responsible Graphic Design: The Ethical Panel (VGO-EP)
 
 When you submit a request for graphic design to the **Responsible Graphic Design - Ethical Panel (VGO-EP)**, your design case will be introduced into a **structured panel debate**.
@@ -123,5 +102,6 @@ This consensus guideline becomes the **direct and binding instruction** for the 
 
 ### 4. Final Design
 Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
+
 
 
