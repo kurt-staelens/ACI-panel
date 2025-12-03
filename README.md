@@ -1,6 +1,6 @@
-🤖 Artificial Collective Intelligence (ACI) Architecture
+🤖 Artificial Debate Panel (ADP) Architecture
 Disrupting Decision-Making through Structured Consensus.
-ACI is a validated, open-source protocol that marks the transition from arbitrary Large Language Model (LLM) output to reproducible, interdisciplinary decision-making. ACI transforms AI into an auditable Governance Instrument for Enterprise and MLOps environments.
+ADP is a validated, open-source protocol that marks the transition from arbitrary Large Language Model (LLM) output to reproducible, interdisciplinary decision-making. ADP transforms AI into an auditable Governance Instrument for Enterprise and MLOps environments.
 
 🛑 The Fundamental Problem
 Contemporary Generative AI is brilliant at text creation but fails at reproducible, interdisciplinary synthesis. Companies suffer from expensive, time-consuming, and subjective processes for:
@@ -11,8 +11,8 @@ Ethical & Legal Compliance
 
 Early R&D Risk Analysis
 
-🧠 The Solution: The ACI Method
-ACI simulates an Artificial Think Tank by compelling eight specialized AI agents (Experts) into a structured and reproducible deliberation process:
+🧠 The Solution: The ADP Method
+ADP simulates an Artificial Think Tank by compelling eight specialized AI agents (Experts) into a structured and reproducible deliberation process:
 
 Step	Description	Goal
 Round 1	Independent Exploration by 4 Experts.	Elimination of groupthink.
@@ -22,18 +22,18 @@ Round 4	Unanimous Consensus and Strategic Output.	Delivery of a validated, repro
 
 Exporteren naar Spreadsheets
 
-🚀 The Power of ACI: MLOps Governance
-ACI's greatest value lies in its integration with platforms like Comet ML (see Case Study). ACI functions as the Governance Hook:
+🚀 The Power of ADP: MLOps Governance
+ADP's greatest value lies in its integration with platforms like Comet ML (see Case Study). ADP functions as the Governance Hook:
 
-Platform-Immune: ACI is proven platform-independent (validated on various LLMs). The value resides in the method, not the engine.
+Platform-Immune: ADP is proven platform-independent (validated on various LLMs). The value resides in the method, not the engine.
 
-Audit-Proof: The ACI output (the Governance Constraint) can be immutably logged in the MLOps pipeline. This creates an End-to-End Audit Trail that links the technical realization (the code) to the strategic and ethical accountability (the ACI decision).
+Audit-Proof: The ADP output (the Governance Constraint) can be immutably logged in the MLOps pipeline. This creates an End-to-End Audit Trail that links the technical realization (the code) to the strategic and ethical accountability (the ADP decision).
 
 Economic Disruption: Lowers the costs of Due Diligence and Compliance to marginal cloud expenses, reducing the innovation threshold for SMEs.
 
 📂 Repository Overview
 File	Function
-ACI_Start_Prompt_V1.0.md	The Initial Start Text (the formula). [Open Source - MIT License]
+ADP_Start_Prompt_V1.0.md	The Initial Start Text (the formula). [Open Source - MIT License]
 Validation_Certificate.pdf	The officially dated Proof of Architecture Validation (Proof of Working).
 Anonimized_Transcript_Summary.md	Summary of the cross-disciplinary validation cases.
 LICENSE	The MIT Open Source License.
@@ -41,12 +41,12 @@ LICENSE	The MIT Open Source License.
 Exporteren naar Spreadsheets
 
 📜 Proof of Prior Art & Open Source
-This project is launched under the MIT Open Source License. Through the simultaneous publication of the architecture and the dated Validation Certificate, the Proof of Prior Art (PoPA) of the ACI method is publicly established on [24/11/2025].
+This project is launched under the MIT Open Source License. Through the simultaneous publication of the architecture and the dated Validation Certificate, the Proof of Prior Art (PoPA) of the ADP method is publicly established on [24/11/2025].
 
-📖 USER MANUAL: How to Launch ACI
+📖 USER MANUAL: How to Launch ADP
 You have received the GitHub link.
 
-Open the file ACI_Start_Prompt_V1.0.md.
+Open the file ADP_Start_Prompt_V1.0.md.
 
 Copy the text found in the file in its entirety.
 
@@ -102,6 +102,7 @@ This consensus guideline becomes the **direct and binding instruction** for the 
 
 ### 4. Final Design
 Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
+
 
 
 
