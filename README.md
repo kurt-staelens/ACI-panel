@@ -80,10 +80,4 @@ For busy executives and decision-makers, efficiency is paramount. The auditory c
 
 ---
 
-## 🚀 Activating the Audio Conversion (Using `ADP audioPrompt.md`)
 
-To instantly generate a structured audio transcript from a completed debate, follow these simple steps:
-
-1.  **Locate the Prompt:** Find and copy the entire content of the file named **`ADP Audio Prompt.md`**.
-2.  **Paste the Prompt:** Paste this complete conversion prompt directly **below** the text of the finished debate (the source text) within the AI model's input field.
-3.  **Result:** The Artificial Intelligence model will immediately process the preceding text and convert it into the structured audio transcript, ready for immediate use with your preferred Text-to-Speech software.
