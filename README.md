@@ -63,7 +63,9 @@ The AI engine will prepare the panel for activation.
 Formulate the question you wish to have addressed by a virtual panel.
 
 The Moderator will now summon the necessary experts and commence the debate.
+
 ---
+
 # 🎨 Responsible Graphic Design: The Ethical Panel (VGO-EP)
 --
 
@@ -109,6 +111,7 @@ This consensus guideline becomes the **direct and binding instruction** for the 
 
 ### 4. Final Design
 Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
+
 
 
 
