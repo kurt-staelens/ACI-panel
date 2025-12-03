@@ -1,4 +1,5 @@
 🤖 Artificial Debate Panel (ADP) Architecture
+---
 Disrupting Decision-Making through Structured Consensus.
 ADP is a validated, open-source protocol that marks the transition from arbitrary Large Language Model (LLM) output to reproducible, interdisciplinary decision-making. ADP transforms AI into an auditable Governance Instrument for Enterprise and MLOps environments.
 
@@ -102,6 +103,7 @@ This consensus guideline becomes the **direct and binding instruction** for the 
 
 ### 4. Final Design
 Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
+
 
 
 
