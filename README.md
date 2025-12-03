@@ -14,10 +14,10 @@ Early R&D Risk Analysis
 
 🧠 The Solution: The ADP Method
 --
-ADP simulates an Artificial Think Tank by compelling eight specialized AI agents (Experts) into a structured and reproducible deliberation process:
+ADP simulates an Artificial Think Tank by compelling 10 specialized AI agents (Experts) into a structured and reproducible deliberation process:
 
 Step	Description	Goal
-Round 1	Independent Exploration by 4 Experts.	Elimination of groupthink.
+Round 1	Independent exploration by 8 experts + 2 mandatory experts (psychology and philosophy) or 8 expert clusters + 2 mandatory experts (psychographer and philosophy) Elimination of groupthink.
 Round 2	Question and Answer (Q&A) between Experts.	Identification of blind spots.
 Round 3	Critique and Rejoinder on Each Other's Stances.	Maximum exposure to risks.
 Round 4	Unanimous Consensus and Strategic Output.	Delivery of a validated, reproducible decision (PoW).
@@ -25,6 +25,7 @@ Round 4	Unanimous Consensus and Strategic Output.	Delivery of a validated, repro
 Exporteren naar Spreadsheets
 
 🚀 The Power of ADP: MLOps Governance
+--
 ADP's greatest value lies in its integration with platforms like Comet ML (see Case Study). ADP functions as the Governance Hook:
 
 Platform-Immune: ADP is proven platform-independent (validated on various LLMs). The value resides in the method, not the engine.
@@ -34,6 +35,7 @@ Audit-Proof: The ADP output (the Governance Constraint) can be immutably logged 
 Economic Disruption: Lowers the costs of Due Diligence and Compliance to marginal cloud expenses, reducing the innovation threshold for SMEs.
 
 📂 Repository Overview
+--
 File	Function
 ADP_Start_Prompt_V1.0.md	The Initial Start Text (the formula). [Open Source - MIT License]
 Validation_Certificate.pdf	The officially dated Proof of Architecture Validation (Proof of Working).
@@ -43,9 +45,11 @@ LICENSE	The MIT Open Source License.
 Exporteren naar Spreadsheets
 
 📜 Proof of Prior Art & Open Source
+--
 This project is launched under the MIT Open Source License. Through the simultaneous publication of the architecture and the dated Validation Certificate, the Proof of Prior Art (PoPA) of the ADP method is publicly established on [24/11/2025].
 
 📖 USER MANUAL: How to Launch ADP
+--
 You have received the GitHub link.
 
 Open the file ADP_Start_Prompt_V1.0.md.
@@ -61,10 +65,11 @@ Formulate the question you wish to have addressed by a virtual panel.
 The Moderator will now summon the necessary experts and commence the debate.
 ---
 # 🎨 Responsible Graphic Design: The Ethical Panel (VGO-EP)
+--
 
 When you submit a request for graphic design to the **Responsible Graphic Design - Ethical Panel (VGO-EP)**, your design case will be introduced into a **structured panel debate**.
 
----
+-
 
 ## The Ethical Mission ✨
 
@@ -104,6 +109,7 @@ This consensus guideline becomes the **direct and binding instruction** for the 
 
 ### 4. Final Design
 Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
+
 
 
 
