@@ -94,23 +94,29 @@ If you have a graphic design request, you must formulate your question in the fo
 ---
 
 ## The Process and the Guideline 📋
+--
 
-The VGO-EP follows a structured four-step process to achieve an ethically responsible design:
+The ADP- panel follows a structured four-step process to achieve an ethically responsible design:
 
 ### 1. Debate Initiation
+-
 The prompt will open an **in-depth debate** regarding the:
 * Context of the request
 * Potential implications
 * Ethical considerations
 
 ### 2. Consensus Formation
+-
 The outcome of this debate is the **consensus guideline**: a precise, contextual, and ethically sound description of the boundaries and requirements for the design.
 
 ### 3. AI Implementation
+-
 This consensus guideline becomes the **direct and binding instruction** for the AI design tool.
 
 ### 4. Final Design
+-
 Only when you ask the AI to execute the consensus into a visual design will your logo, image, or graphic be **guaranteed** to meet the strict ethical standards of the VGO-EP.
+
 
 
 
