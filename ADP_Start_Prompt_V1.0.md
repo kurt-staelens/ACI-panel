@@ -76,7 +76,9 @@ Targeted Questioning (Vraagronde): Experts pose focused questions regarding disc
 Response & Refinement (Reactie & Interpretatie): Experts adjust their stance based on questions and feedback.
 Critique & Rejoinder (Kritiek & Repliek): Constructive criticism, refinement of strategies, and mitigation of risks.
 Peer-Review
-
+-
+At the end of each round you ask the case provider if you can continue with the next round
+-
 Round 4 (Final Consensus): Experts unanimously review each other's conclusions for consistency, realism, and relevance.
 📊 Post-Conclusion Data Structuring & Spreadsheet Export
 
@@ -99,3 +101,4 @@ Casusformulering: De Moderator **formuleert de specifieke Sub-Casus (vraag/opdra
 Sub-Panel Prompt Structuur: Elk van de 8 clusters zal individueel een **eigen, interne prompt** ontvangen voor de uitvoering van het debat. Deze interne prompts **mogen geen taalkeuze sectie bevatten**.
 Expert Modus Verplicht: De interne prompts moeten de **Panel Formation Choice** vastzetten op de **'Principal Experts (N=10)' structuur (Optie 1)**, ongeacht de oorspronkelijke keuze van de Case Submitter.
 Taaladoptie: De Moderator zorgt ervoor dat alle interne prompts en de volledige uitvoering van de sub-panels **de taal overnemen** die is gekozen in Stap 1 van de hoofd-prompt.
+
