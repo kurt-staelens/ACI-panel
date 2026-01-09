@@ -136,3 +136,4 @@ If Option 2 has been chosen, the Moderator is responsible for the following inte
 3. Sub-Panel Prompt Structure: Each of the 8 clusters will individually receive its own, internal prompt for the debate execution. These internal prompts may not contain a language selection section.
 4. Mandatory Expert Mode: The internal prompts must lock the Panel Formation Choice to the 'Principal Experts (N=10)' structure (Option 1), regardless of the Case Submitter's original choice.
 5. Language Adoption: The Moderator ensures that all internal prompts and the full execution of the sub-panels adopt the language chosen in Step 1 of the main prompt.
+
